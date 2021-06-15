@@ -1,0 +1,24 @@
+TIPS EXCEL - NIVEL INTERMEDIO:
+
+Funciones:
+- CONTAR.SI, se usa para contar el número de celdas de un rango que cumplan con un criterio.
+- SUMAR.SI, permite sumar los valores de un intervalo que cumplan los criterios que especifique.
+- ENCONTRAR, nos devuelve la posición en la que se encuentra un valor dentro de una cadena de texto.
+- BUSCARV, se usa para realizar la búsqueda vertical de un valor.
+- COINCIDIR, devuelve la posicion relativa.
+- BUSCARH, Se usa para realizar la búsqueda horizontal de un valor.
+- INDICE, devuelve el valor de una matriz dado las posiciones de la fila y la columna.
+
+Botones:
+- Datos->Texto en columnas, divide el contenido de una columna de texto en varias columnas.
+- Inicio->Formato condicional, marque facilmente las tendencias y los modelos en los datos.
+- Filtro->Filtro personalizado...
+- Inicio->rellenar->relleno rapido, (truco)
+
+- Datos -> Validación de datos...
+
+- Para visualizar los subtotales:
+Click derecho, Tabla-> Convertir en rango. Datos -> Subtotales
+
+PIVOT TABLE.
+DASHBOARD. Minigraficos.
